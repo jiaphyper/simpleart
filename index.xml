@@ -1,5 +1,417 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SimpleArt Theme Demo</title><link>https://time2lifes.github.io/simpleart/</link><description>Recent content on SimpleArt Theme Demo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://time2lifes.github.io/simpleart/index.xml" rel="self" type="application/rss+xml"/><item><title>随机跳转中...请稍后</title><link>https://time2lifes.github.io/simpleart/random/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://time2lifes.github.io/simpleart/random/</guid><description>&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SimpleArt Theme Demo</title><link>https://time2lifes.github.io/simpleart/</link><description>Recent content on SimpleArt Theme Demo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2024 13:34:54 +0200</lastBuildDate><atom:link href="https://time2lifes.github.io/simpleart/index.xml" rel="self" type="application/rss+xml"/><item><title>Test TOC, deatails and styles</title><link>https://time2lifes.github.io/simpleart/posts/test-toc-and-details/</link><pubDate>Sun, 18 Aug 2024 13:34:54 +0200</pubDate><guid>https://time2lifes.github.io/simpleart/posts/test-toc-and-details/</guid><description>&lt;h2 id="table-of-content">Table of Content&lt;/h2>
+&lt;h3 id="what-it-is">What it is?&lt;/h3>
+&lt;p>TOC is the box you see at the very top of this post. It may be framed (or not).&lt;/p>
+&lt;h3 id="how-to-enable-toc">How to enable TOC?&lt;/h3>
+&lt;p>To enable it, all you need to do when creating a new post at the very top is to insert the code:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-toml" data-lang="toml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">toc&lt;/span> = &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">tocBorder&lt;/span> = &lt;span style="color:#66d9ef">true&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>You can of course find this post (../themes/nostyleplease/content/posts/test-toc-and-details.md) and open in editor to see how it&amp;rsquo;s working.&lt;/p></description></item><item><title>Test Markdown</title><link>https://time2lifes.github.io/simpleart/posts/test-markdown/</link><pubDate>Sun, 01 Jan 2023 10:28:10 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/test-markdown/</guid><description>&lt;h1 id="markdown-test-page">&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->Markdown Test Page&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="#Headings">Headings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Paragraphs">Paragraphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Blockquotes">Blockquotes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Lists">Lists&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Horizontal">Horizontal rule&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Table">Table&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Code">Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#Inline">Inline elements&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="headings">&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->Headings&lt;/h1>
+&lt;h1 id="heading-one">Heading one&lt;/h1>
+&lt;p>Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt.&lt;/p>
+&lt;h2 id="heading-two">Heading two&lt;/h2>
+&lt;p>Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim.&lt;/p></description></item><item><title>Test CJK</title><link>https://time2lifes.github.io/simpleart/posts/test-cjk/</link><pubDate>Fri, 26 Aug 2022 22:30:10 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/test-cjk/</guid><description>&lt;h3 id="1-简体中文测试">1. 简体中文测试&lt;/h3>
+&lt;p>秋，夜，王趺坐收银台前，篝灯如吠。明灭之际有兽前来采购：鹿角虎爪，云雾缭绕，眼睛碧绿如同玻璃；店中不见生人已久。坐，齿轮捻动，肩胛慢慢松弛，衣袖如瓷。在货架之间，忘记面孔的人有迷失的风险。一份白色，我有天空中游动穿过云的骨。一份蓝色，有雨水溅落金属制品间的空气。绿色，有薄而冰凉至温润的指甲。黑色有窗外随风沙沙的水草。兽狡黠，想必没有红色。王赧然，有常住仓库，深居简出，肥而不腻的三文鱼。颜色，声音，温度，气味，这一切尽可落在你一人身上。但，让我与你的眼睛对饮一杯。所以熬煮越来越粘稠的空气，坛中有清冽，眼前有孤灯，然后让身体舒展沉浮。兽目睹这一切，嘴微张，牙齿柔软，荧光微微。第二天，王尚未醒来，脸上躺着一枚红叶，身体轻轻摇晃。&lt;/p>
+&lt;p>From &lt;a href="https://hanwen.one/pne/%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B9%8B%E7%8E%8B/">便利店之王&lt;/a>&lt;/p>
+&lt;h3 id="2-繁体中文测试">2. 繁体中文测试&lt;/h3>
+&lt;p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p>
+&lt;p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p>
+&lt;p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p>
+&lt;p>國新故。&lt;/p>
+&lt;blockquote>
+&lt;p>工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p>&lt;/blockquote>
+&lt;p>From &lt;a href="http://www.richyli.com/tool/loremipsum/">亂數假文產生器 - Chinese Lorem Ipsum.&lt;/a>&lt;/p>
+&lt;h3 id="3-日本語テスト">3. 日本語テスト&lt;/h3>
+&lt;p>私は昨日ついにその助力家というのの上よりするたなけれ。
+最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
+がたを知っないはずも同時に九月をいよいよたありた。&lt;/p>
+&lt;p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p>
+&lt;blockquote>
+&lt;p>それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p>&lt;/blockquote>
+&lt;p>この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p>
+&lt;p>From &lt;a href="http://lipsum.sugutsukaeru.jp/index.cgi">すぐ使えるダミーテキスト - 日本語 Lorem ipsum.&lt;/a>&lt;/p>
+&lt;h3 id="4-한국어-예문">4. 한국어 예문&lt;/h3>
+&lt;p>국가원로자문회의의 의장은 직전대통령이 된다. 다만, 직전대통령이 없을 때에는 대통령이 지명한다. 모든 국민은 법률이 정하는 바에 의하여 공무담임권을 가진다. 국가는 노인과 청소년의 복지향상을 위한 정책을 실시할 의무를 진다. 학교교육 및 평생교육을 포함한 교육제도와 그 운영, 교육재정 및 교원의 지위에 관한 기본적인 사항은 법률로 정한다.&lt;/p></description></item><item><title>Test Highlight</title><link>https://time2lifes.github.io/simpleart/posts/test-highlight/</link><pubDate>Fri, 26 Aug 2022 22:29:10 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/test-highlight/</guid><description>&lt;h2 id="test-for-c">Test for C&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c" data-lang="c">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#define UNICODE
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#include&lt;/span> &lt;span style="color:#75715e">&amp;lt;windows.h&amp;gt;&lt;/span>&lt;span style="color:#75715e">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> argc, &lt;span style="color:#66d9ef">char&lt;/span> &lt;span style="color:#f92672">**&lt;/span>argv) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">int&lt;/span> speed &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>, speed1 &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>, speed2 &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>; &lt;span style="color:#75715e">// 1-20
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Set Mouse Speed by Maverick&lt;/span>&lt;span style="color:#ae81ff">\n&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">SystemParametersInfo&lt;/span>(SPI_GETMOUSESPEED, &lt;span style="color:#ae81ff">0&lt;/span>, &lt;span style="color:#f92672">&amp;amp;&lt;/span>speed, &lt;span style="color:#ae81ff">0&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Current speed: %2d&lt;/span>&lt;span style="color:#ae81ff">\n&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>, speed);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (argc &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>) &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (argc &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>) &lt;span style="color:#a6e22e">sscanf&lt;/span>(argv[&lt;span style="color:#ae81ff">1&lt;/span>], &lt;span style="color:#e6db74">&amp;#34;%d&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;amp;&lt;/span>speed1);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (argc &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">3&lt;/span>) &lt;span style="color:#a6e22e">sscanf&lt;/span>(argv[&lt;span style="color:#ae81ff">2&lt;/span>], &lt;span style="color:#e6db74">&amp;#34;%d&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;amp;&lt;/span>speed2);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (argc &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>) &lt;span style="color:#75715e">// set speed to first value
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> speed &lt;span style="color:#f92672">=&lt;/span> speed1;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span> &lt;span style="color:#66d9ef">if&lt;/span> (speed &lt;span style="color:#f92672">==&lt;/span> speed1 &lt;span style="color:#f92672">||&lt;/span> speed &lt;span style="color:#f92672">==&lt;/span> speed2) &lt;span style="color:#75715e">// alternate
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> speed &lt;span style="color:#f92672">=&lt;/span> speed1 &lt;span style="color:#f92672">+&lt;/span> speed2 &lt;span style="color:#f92672">-&lt;/span> speed;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> speed &lt;span style="color:#f92672">=&lt;/span> speed1; &lt;span style="color:#75715e">// start with first value
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">SystemParametersInfo&lt;/span>(SPI_SETMOUSESPEED, &lt;span style="color:#ae81ff">0&lt;/span>, speed, &lt;span style="color:#ae81ff">0&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">SystemParametersInfo&lt;/span>(SPI_GETMOUSESPEED, &lt;span style="color:#ae81ff">0&lt;/span>, &lt;span style="color:#f92672">&amp;amp;&lt;/span>speed, &lt;span style="color:#ae81ff">0&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;New speed: %2d&lt;/span>&lt;span style="color:#ae81ff">\n&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>, speed);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-java">Test for Java&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-java" data-lang="java">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> java.util.Map;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> java.util.TreeSet;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">GetEnv&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/**
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"> * let&amp;#39;s test generics
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"> * @param args the command line arguments
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"> */&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>(String&lt;span style="color:#f92672">[]&lt;/span> args) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">// get a map of environment variables&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Map&lt;span style="color:#f92672">&amp;lt;&lt;/span>String, String&lt;span style="color:#f92672">&amp;gt;&lt;/span> env &lt;span style="color:#f92672">=&lt;/span> System.&lt;span style="color:#a6e22e">getenv&lt;/span>();
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">// build a sorted set out of the keys and iterate&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span>(String k: &lt;span style="color:#66d9ef">new&lt;/span> TreeSet&lt;span style="color:#f92672">&amp;lt;&lt;/span>String&lt;span style="color:#f92672">&amp;gt;&lt;/span>(env.&lt;span style="color:#a6e22e">keySet&lt;/span>())) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> System.&lt;span style="color:#a6e22e">out&lt;/span>.&lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;%s = %s\n&amp;#34;&lt;/span>, k, env.&lt;span style="color:#a6e22e">get&lt;/span>(k));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> } 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-perl">Test for Perl&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-perl" data-lang="perl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#!perl -w&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Time-stamp: &amp;lt;2002/04/06, 13:12:13 (EST), maverick, csvformat.pl&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Two pass CSV file to table formatter&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$delim &lt;span style="color:#f92672">=&lt;/span> $#ARGV &lt;span style="color:#f92672">&amp;gt;=&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> ? $ARGV[&lt;span style="color:#ae81ff">1&lt;/span>] : &lt;span style="color:#e6db74">&amp;#39;,&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">print&lt;/span> STDERR &lt;span style="color:#e6db74">&amp;#34;Split pattern: $delim\n&amp;#34;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># first pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>open F, &lt;span style="color:#e6db74">&amp;#34;&amp;lt;$ARGV[0]&amp;#34;&lt;/span> &lt;span style="color:#f92672">or&lt;/span> die;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">while&lt;/span>(&lt;span style="color:#e6db74">&amp;lt;F&amp;gt;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> chomp;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> $i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> map { $max[$_&lt;span style="color:#f92672">-&amp;gt;&lt;/span>[&lt;span style="color:#ae81ff">1&lt;/span>]] &lt;span style="color:#f92672">=&lt;/span> $_&lt;span style="color:#f92672">-&amp;gt;&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>] &lt;span style="color:#66d9ef">if&lt;/span> $_&lt;span style="color:#f92672">-&amp;gt;&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>] &lt;span style="color:#f92672">&amp;gt;&lt;/span> ($max[$_&lt;span style="color:#f92672">-&amp;gt;&lt;/span>[&lt;span style="color:#ae81ff">1&lt;/span>]] &lt;span style="color:#f92672">||&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>) }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (map {[length $_, $i&lt;span style="color:#f92672">++&lt;/span>]} split($delim));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>close F;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">print&lt;/span> STDERR &lt;span style="color:#e6db74">&amp;#39;Field width: &amp;#39;&lt;/span>, join(&lt;span style="color:#e6db74">&amp;#39;, &amp;#39;&lt;/span>, @max), &lt;span style="color:#e6db74">&amp;#34;\n&amp;#34;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">print&lt;/span> STDERR join(&lt;span style="color:#e6db74">&amp;#39; &amp;#39;&lt;/span>, map {&lt;span style="color:#e6db74">&amp;#39;-&amp;#39;&lt;/span> x $_} @max);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># second pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>open F, &lt;span style="color:#e6db74">&amp;#34;&amp;lt;$ARGV[0]&amp;#34;&lt;/span> &lt;span style="color:#f92672">or&lt;/span> die;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">while&lt;/span>(&lt;span style="color:#e6db74">&amp;lt;F&amp;gt;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> chomp;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> $i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> map { printf(&lt;span style="color:#e6db74">&amp;#34;%-$max[$_-&amp;gt;[1]]s &amp;#34;&lt;/span>, $_&lt;span style="color:#f92672">-&amp;gt;&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>]) }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (map {[$_, $i&lt;span style="color:#f92672">++&lt;/span>]} split($delim));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;\n&amp;#34;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>close F;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-python">Test for Python&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># test python (sample from offlineimap)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">ExitNotifyThread&lt;/span>(Thread):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;This class is designed to alert a &amp;#34;monitor&amp;#34; to the fact that a thread has
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> exited and to provide for the ability for it to find out why.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">run&lt;/span>(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">global&lt;/span> exitthreads, profiledir
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>threadid &lt;span style="color:#f92672">=&lt;/span> thread&lt;span style="color:#f92672">.&lt;/span>get_ident()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">try&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">not&lt;/span> profiledir: &lt;span style="color:#75715e"># normal case&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Thread&lt;span style="color:#f92672">.&lt;/span>run(self)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">try&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">import&lt;/span> cProfile &lt;span style="color:#66d9ef">as&lt;/span> profile
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">except&lt;/span> &lt;span style="color:#a6e22e">ImportError&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">import&lt;/span> profile
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> prof &lt;span style="color:#f92672">=&lt;/span> profile&lt;span style="color:#f92672">.&lt;/span>Profile()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">try&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> prof &lt;span style="color:#f92672">=&lt;/span> prof&lt;span style="color:#f92672">.&lt;/span>runctx(&lt;span style="color:#e6db74">&amp;#34;Thread.run(self)&amp;#34;&lt;/span>, globals(), locals())
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">except&lt;/span> &lt;span style="color:#a6e22e">SystemExit&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> prof&lt;span style="color:#f92672">.&lt;/span>dump_stats( \
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> profiledir &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#e6db74">&amp;#34;/&amp;#34;&lt;/span> &lt;span style="color:#f92672">+&lt;/span> str(self&lt;span style="color:#f92672">.&lt;/span>threadid) &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#e6db74">&amp;#34;_&amp;#34;&lt;/span> &lt;span style="color:#f92672">+&lt;/span> \
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>getName() &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#e6db74">&amp;#34;.prof&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">except&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>setExitCause(&lt;span style="color:#e6db74">&amp;#39;EXCEPTION&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> sys:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>setExitException(sys&lt;span style="color:#f92672">.&lt;/span>exc_info()[&lt;span style="color:#ae81ff">1&lt;/span>])
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> tb &lt;span style="color:#f92672">=&lt;/span> traceback&lt;span style="color:#f92672">.&lt;/span>format_exc()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>setExitStackTrace(tb)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>setExitCause(&lt;span style="color:#e6db74">&amp;#39;NORMAL&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">not&lt;/span> hasattr(self, &lt;span style="color:#e6db74">&amp;#39;exitmessage&amp;#39;&lt;/span>):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>setExitMessage(&lt;span style="color:#66d9ef">None&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> exitthreads:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> exitthreads&lt;span style="color:#f92672">.&lt;/span>put(self, &lt;span style="color:#66d9ef">True&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">setExitCause&lt;/span>(self, cause):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>exitcause &lt;span style="color:#f92672">=&lt;/span> cause
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">getExitCause&lt;/span>(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;Returns the cause of the exit, one of:
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> &amp;#39;EXCEPTION&amp;#39; -- the thread aborted because of an exception
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> &amp;#39;NORMAL&amp;#39; -- normal termination.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>exitcause
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">setExitException&lt;/span>(self, exc):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>exitexception &lt;span style="color:#f92672">=&lt;/span> exc
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">getExitException&lt;/span>(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;If getExitCause() is &amp;#39;EXCEPTION&amp;#39;, holds the value from
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> sys.exc_info()[1] for this exception.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>exitexception
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">setExitStackTrace&lt;/span>(self, st):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>exitstacktrace &lt;span style="color:#f92672">=&lt;/span> st
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">getExitStackTrace&lt;/span>(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;If getExitCause() is &amp;#39;EXCEPTION&amp;#39;, returns a string representing
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> the stack trace for this exception.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>exitstacktrace
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">setExitMessage&lt;/span>(self, msg):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;Sets the exit message to be fetched by a subsequent call to
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> getExitMessage. This message may be any object or type except
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> None.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>exitmessage &lt;span style="color:#f92672">=&lt;/span> msg
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">getExitMessage&lt;/span>(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&amp;#34;For any exit cause, returns the message previously set by
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> a call to setExitMessage(), or None if there was no such message
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74"> set.&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>exitmessage
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-bash">Test for Bash&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#!/bin/bash
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>cd $ROOT_DIR
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>DOT_FILES&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;lastpass weechat ssh Xauthority&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">for&lt;/span> dotfile in $DOT_FILES; &lt;span style="color:#66d9ef">do&lt;/span> conform_link &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$DATA_DIR&lt;span style="color:#e6db74">/&lt;/span>$dotfile&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#e6db74">&amp;#34;.&lt;/span>$dotfile&lt;span style="color:#e6db74">&amp;#34;&lt;/span>; &lt;span style="color:#66d9ef">done&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># TODO: refactor with suffix variables (or common cron values)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">case&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$PLATFORM&lt;span style="color:#e6db74">&amp;#34;&lt;/span> in
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> linux&lt;span style="color:#f92672">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">#conform_link &amp;#34;$CONF_DIR/shell/zshenv&amp;#34; &amp;#34;.zshenv&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> crontab -l &amp;gt; $ROOT_DIR/tmp/crontab-conflict-arch
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cd $ROOT_DIR/$CONF_DIR/cron
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[[&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>diff ~/tmp/crontab-conflict-arch crontab-current-arch&lt;span style="color:#66d9ef">)&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">]]&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">then&lt;/span> &lt;span style="color:#75715e"># no difference with current backup&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> logger &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$LOG_PREFIX&lt;span style="color:#e6db74">: crontab live settings match stored &amp;#34;&lt;/span>&lt;span style="color:#ae81ff">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> &lt;span style="color:#e6db74">&amp;#34;settings; no restore required&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rm ~/tmp/crontab-conflict-arch
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span> &lt;span style="color:#75715e"># current crontab settings in file do not match live settings&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> crontab $ROOT_DIR/$CONF_DIR/cron/crontab-current-arch
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> logger &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$LOG_PREFIX&lt;span style="color:#e6db74">: crontab stored settings conflict with &amp;#34;&lt;/span>&lt;span style="color:#ae81ff">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> &lt;span style="color:#e6db74">&amp;#34;live settings; stored settings restored. &amp;#34;&lt;/span>&lt;span style="color:#ae81ff">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Previous settings recorded in ~/tmp/crontab-conflict-arch.&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ;;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-haskell">Test for Haskell&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-haskell" data-lang="haskell">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{-# LANGUAGE OverloadedStrings #-}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">module&lt;/span> Main &lt;span style="color:#66d9ef">where&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">--import Prelude hiding (id)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">--import Control.Category (id)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> Control.Arrow ((&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span>), (&lt;span style="color:#f92672">***&lt;/span>), &lt;span style="color:#a6e22e">arr&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> Control.Monad (&lt;span style="color:#a6e22e">forM_&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">-- import Data.Monoid (mempty, mconcat)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">-- import System.FilePath&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> Hakyll
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">main&lt;/span> &lt;span style="color:#f92672">::&lt;/span> &lt;span style="color:#66d9ef">IO&lt;/span> ()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">main&lt;/span> &lt;span style="color:#f92672">=&lt;/span> hakyll &lt;span style="color:#f92672">$&lt;/span> &lt;span style="color:#66d9ef">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> route &lt;span style="color:#e6db74">&amp;#34;css/*&amp;#34;&lt;/span> &lt;span style="color:#f92672">$&lt;/span> setExtension &lt;span style="color:#e6db74">&amp;#34;css&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> compile &lt;span style="color:#e6db74">&amp;#34;css/*&amp;#34;&lt;/span> &lt;span style="color:#f92672">$&lt;/span> byExtension (&lt;span style="color:#a6e22e">error&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Not a (S)CSS file&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [ (&lt;span style="color:#e6db74">&amp;#34;.css&amp;#34;&lt;/span>, compressCssCompiler)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> , (&lt;span style="color:#e6db74">&amp;#34;.scss&amp;#34;&lt;/span>, sass)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> route &lt;span style="color:#e6db74">&amp;#34;js/**&amp;#34;&lt;/span> idRoute
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> compile &lt;span style="color:#e6db74">&amp;#34;js/**&amp;#34;&lt;/span> copyFileCompiler
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> route &lt;span style="color:#e6db74">&amp;#34;img/*&amp;#34;&lt;/span> idRoute
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> compile &lt;span style="color:#e6db74">&amp;#34;img/*&amp;#34;&lt;/span> copyFileCompiler
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> compile &lt;span style="color:#e6db74">&amp;#34;templates/*&amp;#34;&lt;/span> templateCompiler
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> forM_ [&lt;span style="color:#e6db74">&amp;#34;test.md&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;index.md&amp;#34;&lt;/span>] &lt;span style="color:#f92672">$&lt;/span> &lt;span style="color:#a6e22e">\&lt;/span>page &lt;span style="color:#f92672">-&amp;gt;&lt;/span> &lt;span style="color:#66d9ef">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> route page &lt;span style="color:#f92672">$&lt;/span> setExtension &lt;span style="color:#e6db74">&amp;#34;html&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> compile page &lt;span style="color:#f92672">$&lt;/span> pageCompiler
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> applyTemplateCompiler &lt;span style="color:#e6db74">&amp;#34;templates/default.html&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> relativizeUrlsCompiler
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">sass&lt;/span> &lt;span style="color:#f92672">::&lt;/span> &lt;span style="color:#66d9ef">Compiler&lt;/span> &lt;span style="color:#66d9ef">Resource&lt;/span> &lt;span style="color:#66d9ef">String&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">sass&lt;/span> &lt;span style="color:#f92672">=&lt;/span> getResourceString &lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> unixFilter &lt;span style="color:#e6db74">&amp;#34;sass&amp;#34;&lt;/span> [&lt;span style="color:#e6db74">&amp;#34;-s&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;--scss&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> arr compressCss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-php">Test for PHP&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-php" data-lang="php">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;lt;?&lt;/span>&lt;span style="color:#a6e22e">php&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">require_once&lt;/span>($GLOBALS[&lt;span style="color:#e6db74">&amp;#39;g_campsiteDir&amp;#39;&lt;/span>]&lt;span style="color:#f92672">.&lt;/span> &lt;span style="color:#e6db74">&amp;#34;/&lt;/span>&lt;span style="color:#e6db74">$ADMIN_DIR&lt;/span>&lt;span style="color:#e6db74">/country/common.php&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">require_once&lt;/span>($GLOBALS[&lt;span style="color:#e6db74">&amp;#39;g_campsiteDir&amp;#39;&lt;/span>]&lt;span style="color:#f92672">.&lt;/span> &lt;span style="color:#e6db74">&amp;#34;/classes/SimplePager.php&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">camp_load_translation_strings&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;api&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$f_country_language_selected &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">camp_session_get&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;f_language_selected&amp;#39;&lt;/span>, &lt;span style="color:#e6db74">&amp;#39;&amp;#39;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$f_country_offset &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">camp_session_get&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;f_country_offset&amp;#39;&lt;/span>, &lt;span style="color:#ae81ff">0&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#66d9ef">empty&lt;/span>($f_country_language_selected)) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> $f_country_language_selected &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">null&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ItemsPerPage &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">20&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$languages &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">Language&lt;/span>&lt;span style="color:#f92672">::&lt;/span>&lt;span style="color:#a6e22e">GetLanguages&lt;/span>(&lt;span style="color:#66d9ef">null&lt;/span>, &lt;span style="color:#66d9ef">null&lt;/span>, &lt;span style="color:#66d9ef">null&lt;/span>, &lt;span style="color:#66d9ef">array&lt;/span>(), &lt;span style="color:#66d9ef">array&lt;/span>(), &lt;span style="color:#66d9ef">true&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$numCountries &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">Country&lt;/span>&lt;span style="color:#f92672">::&lt;/span>&lt;span style="color:#a6e22e">GetNumCountries&lt;/span>($f_country_language_selected);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$pager &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">new&lt;/span> &lt;span style="color:#a6e22e">SimplePager&lt;/span>($numCountries, $ItemsPerPage, &lt;span style="color:#e6db74">&amp;#34;index.php?&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$crumbs &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">array&lt;/span>();
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$crumbs[] &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">array&lt;/span>(&lt;span style="color:#a6e22e">getGS&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Configure&amp;#34;&lt;/span>), &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$crumbs[] &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">array&lt;/span>(&lt;span style="color:#a6e22e">getGS&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Countries&amp;#34;&lt;/span>), &lt;span style="color:#e6db74">&amp;#34;&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">echo&lt;/span> &lt;span style="color:#a6e22e">camp_html_breadcrumbs&lt;/span>($crumbs);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">?&amp;gt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> 
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">&amp;lt;?php if ($g_user-&amp;gt;hasPermission(&amp;#34;ManageCountries&amp;#34;)) { ?&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">&amp;lt;table BORDER=&amp;#34;0&amp;#34; CELLSPACING=&amp;#34;0&amp;#34; CELLPADDING=&amp;#34;1&amp;#34;&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;lt;tr&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;lt;td&amp;gt;&amp;lt;a href=&amp;#34;add.php&amp;#34;&amp;gt;&amp;lt;?php putGS(&amp;#34;Add new&amp;#34;); ?&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;lt;/tr&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">&amp;lt;/table&amp;gt;
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-javascript">Test for Javascript&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-js" data-lang="js">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">isTypedArray&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span> &lt;span style="color:#e6db74">&amp;#39;lodash/isTypedArray&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">reverse&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span> &lt;span style="color:#e6db74">&amp;#39;lodash/reverse&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">sortBy&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span> &lt;span style="color:#e6db74">&amp;#39;lodash/sortBy&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">take&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span> &lt;span style="color:#e6db74">&amp;#39;lodash/take&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> { &lt;span style="color:#a6e22e">food101Classes&lt;/span> } &lt;span style="color:#a6e22e">from&lt;/span> &lt;span style="color:#e6db74">&amp;#39;./food101&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">export&lt;/span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">food101topK&lt;/span>(&lt;span style="color:#a6e22e">classProbabilities&lt;/span>, &lt;span style="color:#a6e22e">k&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">5&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">probs&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">isTypedArray&lt;/span>(&lt;span style="color:#a6e22e">classProbabilities&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">?&lt;/span> Array.&lt;span style="color:#a6e22e">prototype&lt;/span>.&lt;span style="color:#a6e22e">slice&lt;/span>.&lt;span style="color:#a6e22e">call&lt;/span>(&lt;span style="color:#a6e22e">classProbabilities&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#a6e22e">classProbabilities&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">sorted&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">reverse&lt;/span>(
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">sortBy&lt;/span>(
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">probs&lt;/span>.&lt;span style="color:#a6e22e">map&lt;/span>((&lt;span style="color:#a6e22e">prob&lt;/span>, &lt;span style="color:#a6e22e">index&lt;/span>) =&amp;gt; [ &lt;span style="color:#a6e22e">prob&lt;/span>, &lt;span style="color:#a6e22e">index&lt;/span> ]),
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">probIndex&lt;/span> =&amp;gt; &lt;span style="color:#a6e22e">probIndex&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> )
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> );
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">topK&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">take&lt;/span>(&lt;span style="color:#a6e22e">sorted&lt;/span>, &lt;span style="color:#a6e22e">k&lt;/span>).&lt;span style="color:#a6e22e">map&lt;/span>(&lt;span style="color:#a6e22e">probIndex&lt;/span> =&amp;gt; {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">iClass&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">food101Classes&lt;/span>[&lt;span style="color:#a6e22e">probIndex&lt;/span>[&lt;span style="color:#ae81ff">1&lt;/span>]];
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#a6e22e">probIndex&lt;/span>[&lt;span style="color:#ae81ff">1&lt;/span>],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#a6e22e">iClass&lt;/span>.&lt;span style="color:#a6e22e">replace&lt;/span>(&lt;span style="color:#e6db74">/_/&lt;/span>, &lt;span style="color:#e6db74">&amp;#39; &amp;#39;&lt;/span>),
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">probability&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#a6e22e">probIndex&lt;/span>[&lt;span style="color:#ae81ff">0&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> };
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> });
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">topK&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>};
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-html">Test for HTML&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!DOCTYPE html PUBLIC &amp;#34;-//W3C//DTD HTML 4.01 Transitional//EN&amp;#34;&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">html&lt;/span>&amp;gt;&amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;A Tiny Page&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">style&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;text/css&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;lt;!&lt;/span>&lt;span style="color:#f92672">--&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">p&lt;/span> { &lt;span style="color:#66d9ef">font-size&lt;/span>:&lt;span style="color:#ae81ff">15&lt;/span>&lt;span style="color:#66d9ef">pt&lt;/span>; &lt;span style="color:#66d9ef">color&lt;/span>:&lt;span style="color:#ae81ff">#000&lt;/span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">--&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">style&lt;/span>&amp;gt;&amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;&lt;span style="color:#75715e">&amp;lt;!-- real comment --&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">body&lt;/span> &lt;span style="color:#a6e22e">bgcolor&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;#FFFFFF&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">text&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;#000000&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">link&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;#0000CC&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">script&lt;/span> &lt;span style="color:#a6e22e">language&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;javascript&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;text/javascript&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">changeHeight&lt;/span>(&lt;span style="color:#a6e22e">h&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">tds&lt;/span> &lt;span style="color:#f92672">=&lt;/span> document.&lt;span style="color:#a6e22e">getElementsByTagName&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;td&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span>(&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">tds&lt;/span>.&lt;span style="color:#a6e22e">length&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span>&lt;span style="color:#f92672">++&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">tds&lt;/span>[&lt;span style="color:#a6e22e">i&lt;/span>].&lt;span style="color:#a6e22e">setAttribute&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;height&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">h&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#e6db74">&amp;#34;px&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">script&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">h1&lt;/span>&amp;gt;abc&amp;lt;/&lt;span style="color:#f92672">h1&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">h2&lt;/span>&amp;gt;def&amp;lt;/&lt;span style="color:#f92672">h2&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Testing page&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="test-for-css">Test for CSS&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">/*
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">Monokai style - ported by Luigi Maselli - http://grigio.org
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">*/&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">display&lt;/span>: &lt;span style="color:#66d9ef">block&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">overflow-x&lt;/span>: &lt;span style="color:#66d9ef">auto&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">padding&lt;/span>: &lt;span style="color:#ae81ff">0.5&lt;/span>&lt;span style="color:#66d9ef">em&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">background&lt;/span>: &lt;span style="color:#ae81ff">#272822&lt;/span>; &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#ddd&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-tag&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-keyword&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-selector-tag&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-literal&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-strong&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-name&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#f92672&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-code&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#66d9ef&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.&lt;span style="color:#a6e22e">hljs-class&lt;/span> .&lt;span style="color:#a6e22e">hljs-title&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#66d9ef">white&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Test Tex</title><link>https://time2lifes.github.io/simpleart/posts/test-tex/</link><pubDate>Fri, 26 Aug 2022 22:28:10 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/test-tex/</guid><description>&lt;p>Inline math: &lt;span>
+\(\varphi\)
+&lt;/span>
+&lt;/p>
+&lt;p>Displayed math:
+&lt;span>
+$$\begin{aligned}
+\varphi &amp;amp;\Rightarrow \psi \\
+\varnothing &amp;amp;\rightarrow A
+\end{aligned}$$
+&lt;/span>
+&lt;/p>
+&lt;p>$$
+R_{\mu \nu} - {1 \over 2}g_{\mu \nu},R + g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+$$&lt;/p>
+&lt;p>The equation $$(x_i \cdot x_j)^2$$ is called kernel function and is often written as $$k(x_i, x_j)$$.&lt;/p>
+&lt;p>$$
+\arg\max_\alpha \sum_j \alpha_j - \frac{1}{2} \sum_{j,k} \alpha_j, \alpha_k y_j y_k (x_j \cdot x_k)
+$$&lt;/p>
+&lt;p>$$
+f(X) = \frac{1}{(2\pi)^{\frac{n}{2} |\Sigma|^{\frac{1}{2}}}} e^{ - \frac{1}{2} (X - \mu)^T \Sigma^{-1} (X - \mu)}
+$$&lt;/p></description></item><item><title>headings and toc</title><link>https://time2lifes.github.io/simpleart/posts/2020-07-09-post-example-with-headings-and-toc/</link><pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/2020-07-09-post-example-with-headings-and-toc/</guid><description>&lt;p>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&lt;/p>
+&lt;h2 id="table-of-contents">Table of contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#table-of-contents">Table of contents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-start">The start&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-middle">The middle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-end">The end&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p></description></item><item><title>overview</title><link>https://time2lifes.github.io/simpleart/posts/2020-07-07-overview-post/</link><pubDate>Tue, 07 Jul 2020 00:00:00 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/2020-07-07-overview-post/</guid><description>&lt;p>Lorem ipsum&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.&lt;/p>
+&lt;h1 id="sample-heading-1">Sample heading 1&lt;/h1>
+&lt;h2 id="sample-heading-2">Sample heading 2&lt;/h2>
+&lt;h3 id="sample-heading-3">Sample heading 3&lt;/h3>
+&lt;h4 id="sample-heading-4">Sample heading 4&lt;/h4>
+&lt;h5 id="sample-heading-5">Sample heading 5&lt;/h5>
+&lt;h6 id="sample-heading-6">Sample heading 6&lt;/h6>
+&lt;p>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.&lt;/p></description></item><item><title>strange post with custom js</title><link>https://time2lifes.github.io/simpleart/posts/2020-07-06-strange-post/</link><pubDate>Mon, 06 Jul 2020 00:00:00 +0800</pubDate><guid>https://time2lifes.github.io/simpleart/posts/2020-07-06-strange-post/</guid><description>&lt;p>This post is strange. It also has some custom js.&lt;/p></description></item><item><title>随机跳转中...请稍后</title><link>https://time2lifes.github.io/simpleart/random/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://time2lifes.github.io/simpleart/random/</guid><description>&lt;script>
 const posts = [
+ 
+ "\/simpleart\/posts\/test-toc-and-details\/",
+ 
+ "\/simpleart\/posts\/test-markdown\/",
+ 
+ "\/simpleart\/posts\/test-cjk\/",
+ 
+ "\/simpleart\/posts\/test-highlight\/",
+ 
+ "\/simpleart\/posts\/test-tex\/",
+ 
+ "\/simpleart\/posts\/2020-07-09-post-example-with-headings-and-toc\/",
+ 
+ "\/simpleart\/posts\/2020-07-07-overview-post\/",
+ 
+ "\/simpleart\/posts\/2020-07-06-strange-post\/",
  
  "\/simpleart\/random\/",
  
