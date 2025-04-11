@@ -3,7 +3,7 @@
 
 A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease).
 
-<img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/images/screenshot-both.png" />
+<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/front.png" />
 
 ## Features
 
