@@ -1,0 +1,16 @@
+{{ if site.Params.theme_config.isShowFooter }}
+        <footer class="site-footer">
+            <p>
+                {{ range $index, $link := site.Params.footer.links }}
+                    {{ if $index }} | {{ end }}
+                        <a href="{{ $link.url }}">
+                           {{ with $link.icon }}<i class="{{ . }}"></i>{{ end }} {{ $link.text }}
+                        </a>
+                {{ end }}
+                {{ with site.Params.footer.copyright }}
+                    | {{ replace . "{{ now.Format \"2006\" }}" (now.Format "2006") | safeHTML }}
+                    {{ site.Title }}
+                {{ end }}
+            </p>
+        </footer>
+{{ end }}

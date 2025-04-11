@@ -1,0 +1,15 @@
+<script>
+const posts = [
+        {{ range .Site.RegularPages }}
+            "{{ .RelPermalink }}",
+        {{ end }}
+    ];
+if (posts.length > 0) {
+    window.location.href = posts[Math.floor(Math.random() * posts.length)];
+} else {
+    document.write('<p>没有可用文章</p>');
+}
+</script>
+
+
+

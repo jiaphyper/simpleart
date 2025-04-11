@@ -1,0 +1,14 @@
+{{ if site.Params.random_reading_enable }}
+
+<button class="random-button" onclick="randomPost()">
+  {{ .button_text | default "Random" }}
+</button>
+
+<script>
+function randomPost() {
+    // direct to /random route
+    window.location.href = "/random";
+}
+</script>
+
+{{end}}

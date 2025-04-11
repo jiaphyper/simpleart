@@ -1,0 +1,65 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "hugo blog name"
+theme = "simpleart"
+enableInlineShortcodes = true
+
+[params]
+  favicon = "logo.png"
+  description = "this is description of the website..."
+  random_button_text = "Wondering"  
+  mainSections = ["post"]
+  copyright = "© 2017 - {{ now.Format \"2006\" }}"
+
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = "Home"
+    date_format = "2006-01-02"
+    isListGroupByDate = false
+    isShowFooter = true
+    show_description = true
+
+  [params.adsense]
+    enable = true                 
+    client_id = "ca-pub-xxxxxxxxxxxxxxx"
+    auto_ads = true
+    article_top_slot = "123456789"
+    article_bottom_slot = "123456789"
+
+  [params.footer]
+    links = [
+      { icon = "fa-brands fa-twitter", text = "Twitter", url = "https://www.x.com/username" },
+      { icon = "fa-brands fa-github", text = "GitHub", url = "https://github.com/username" },
+      { icon = "fa-solid fa-envelope", text = "Email", url = "mailto:email@example.com" },
+      { icon = "fa-solid fa-rss", text = "RSS", url = "/index.xml" }
+    ]
+
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.41.0"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许渲染原始 HTML
+
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    hl_inline = false
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = "rrt"
+    tabWidth = 4  
