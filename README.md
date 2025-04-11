@@ -3,7 +3,7 @@
 
 A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease).
 
-<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/front.png" width="70%"/>
+<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/front.png" width="60%"/>
 
 ## Features
 
@@ -22,7 +22,7 @@ The easiest way is to clone this repo (or add as a submodule) to `themes/simplea
 
 ### 1. Clone the Theme
 ```bash
-git clone https://github.com/time2lifes/simpleart.git
+git clone https://github.com/time2lifes/simpleart.git themes/simpleart
 ```
 
 ### 2. Replace Configuration
