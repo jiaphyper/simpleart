@@ -5,6 +5,13 @@ A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from
 
 <img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/screenshot.png" width="60%"/>
 
+## 🌐 Live Demo
+
+Check out the live demo of SimpleArt theme:
+
+👉 [Demo](https://time2lifes.github.io/simpleart/)
+
+
 ## Features
 
 * Fast (**under 4kb of CSS!**)

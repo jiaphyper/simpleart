@@ -1,7 +1,7 @@
 +++
 title = 'Test TOC, deatails and styles'
 date = 2024-08-18T13:34:54+02:00
-draft = true
+draft = false
 toc = true
 tocBorder = true
 +++

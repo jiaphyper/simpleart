@@ -1,0 +1,4 @@
+baseURL = "https://time2lifes.github.io/simpleart/"
+languageCode = "en-us"
+title = "SimpleArt Theme Demo"
+theme = "simpleart"
