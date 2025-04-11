@@ -3,7 +3,7 @@
 
 A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease).
 
-<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/front.png" />
+<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/front.png" width="70%"/>
 
 ## Features
 
@@ -29,8 +29,6 @@ git clone https://github.com/time2lifes/simpleart.git
 Replace your site's hugo.toml with the theme's configuration file:
 
 ```bash
-# Linux/macOS
-# 将 /theme/config.toml 复制替换当前目录的 config.toml
 cp -f themes/simpleart/hugo.toml ./hugo.toml
 ```
 
@@ -38,7 +36,6 @@ cp -f themes/simpleart/hugo.toml ./hugo.toml
 Overwrite your site's content directory:
 
 ```bash
-# Linux/macOS
 cp -R themes/simpleart/content/ ./content/
 ```
 
@@ -46,8 +43,6 @@ cp -R themes/simpleart/content/ ./content/
 Replace static files (images, JS, CSS, etc.):
 
 ```bash
-
-# Linux/macOS
 cp -R themes/simpleart/static/ ./static/
 ```
 
