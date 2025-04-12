@@ -32,6 +32,10 @@ The easiest way is to clone this repo (or add as a submodule) to `themes/simplea
 git clone https://github.com/jiaphyper/simpleart.git themes/simpleart
 ```
 
+> Once you download or git clone the theme repo, you can **DELETE** the `themee.toml` file and `exampleSite` folder.  
+> Follow the instruction of `README.md`.
+
+
 ### 2. Replace Configuration
 Replace your site's hugo.toml with the theme's configuration file:
 

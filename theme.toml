@@ -10,7 +10,7 @@ homepage = "https://github.com/jiaphyper/simpleart"
 demosite = "jiaphyper.github.io/simpleart/"
 
 tags = ["blog", "responsive", "hugo"]
-features = ["light", "awesome"]
+features = ["light", "awesome", "minimal"]
 
 
 # If the theme has a single author
