@@ -7,7 +7,7 @@ description = "Simple Hugo theme, with less CSS and focus on reading and writing
 homepage = "https://github.com/jiaphyper/simpleart"
 
 # If you have a running demo of the theme.
-demosite = "jiaphyper.github.io/simpleart/"
+demosite = "https://jiaphyper.github.io/simpleart/"
 
 tags = ["blog", "responsive", "hugo"]
 features = ["light", "awesome", "minimal"]
