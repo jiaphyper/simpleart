@@ -3,13 +3,13 @@
 
 A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease).
 
-<img src="https://raw.githubusercontent.com/time2lifes/simpleart/main/screenshot.png" width="60%"/>
+<img src="https://raw.githubusercontent.com/jiaphyper/simpleart/main/screenshot.png" width="60%"/>
 
 ## 🌐 Live Demo
 
 Check out the live demo of SimpleArt theme:
 
-👉 [Demo](https://time2lifes.github.io/simpleart/)
+👉 [Demo](https://jiaphyper.github.io/simpleart/)
 
 
 ## Features
@@ -29,7 +29,7 @@ The easiest way is to clone this repo (or add as a submodule) to `themes/simplea
 
 ### 1. Clone the Theme
 ```bash
-git clone https://github.com/time2lifes/simpleart.git themes/simpleart
+git clone https://github.com/jiaphyper/simpleart.git themes/simpleart
 ```
 
 ### 2. Replace Configuration
@@ -159,7 +159,7 @@ title = "info"
 
   [[entries.entries]]
   title = "github repo"
-  url = "https://github.com/time2lifes/simpleart"
+  url = "https://github.com/jiaphyper/simpleart"
 
 
 [[entries]]
@@ -232,7 +232,7 @@ just edit `hugo.toml` and change `params.theme_config.isListGroupByDate` to `tru
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/time2lifes/simpleart/.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jiaphyper/simpleart/.
 
 ## Acknowledge
 

@@ -1,0 +1,19 @@
+name = "SimpleArt"
+license = "MIT"
+licenselink = "Link to theme's license"
+description = "Simple Hugo theme, with less CSS and focus on reading and writing."
+
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/jiaphyper/simpleart"
+
+# If you have a running demo of the theme.
+demosite = "jiaphyper.github.io/simpleart/"
+
+tags = ["blog", "responsive", "hugo"]
+features = ["light", "awesome"]
+
+
+# If the theme has a single author
+[author]
+    name = "Luxas_J"
+    homepage = "https://github.com/jiaphyper"
