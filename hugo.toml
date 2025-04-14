@@ -36,11 +36,6 @@ enableInlineShortcodes = true
     ]
 
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.41.0"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
