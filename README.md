@@ -32,7 +32,7 @@ The easiest way is to clone this repo (or add as a submodule) to `themes/simplea
 git clone https://github.com/jiaphyper/simpleart.git themes/simpleart
 ```
 
-> Once you download or git clone the theme repo, you can **DELETE** the `themee.toml` file, `config.toml` file and `exampleSite` folder.  
+> Once you download or git clone the theme repo, you can **DELETE** the `theme.toml` file, `config.toml` file and `exampleSite` folder.  
 > Follow the instruction of `README.md`.
 
 
