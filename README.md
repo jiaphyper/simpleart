@@ -117,7 +117,6 @@ Configure your AdSense settings in `hugo.toml`:
 [params.adsense]
   enable = true                 # Enable/disable AdSense globally
   client_id = "ca-pub-xxxxxxxxxxxxxxx"  # Your AdSense publisher ID
-  auto_ads = true               # Enable Auto Ads (recommended)
   article_top_slot = "123456789"    # Article top ad slot ID
   article_bottom_slot = "123456789" # Article bottom ad slot ID
 ```

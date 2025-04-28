@@ -16,6 +16,44 @@
         </aside>
     {{ end }}
 
+    {{/* ======= Top slot ======= */}}
+    {{ with .Site.Params.adsense }}
+        {{ if and .enable .article_top_slot }}
+        <div class="ad-container mb-6">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .client_id }}"></script>
+            <ins class="adsbygoogle"
+                style="display:block; text-align:center;"
+                data-ad-client="{{ .client_id }}"
+                data-ad-slot="{{ .article_top_slot }}"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        {{ end }}
+    {{ end }}
+
+
     {{ .Content }}
+
+    {{/* ======= Bottom slot ======= */}}
+    {{ with .Site.Params.adsense }}
+        {{ if and .enable .article_bottom_slot }}
+        <div class="ad-container mt-6">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .client_id }}"></script>
+            <ins class="adsbygoogle"
+                style="display:block; text-align:center;"
+                data-ad-client="{{ .client_id }}"
+                data-ad-slot="{{ .article_bottom_slot }}"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        {{ end }}
+    {{ end }}
 </article>
+
 {{ end }}

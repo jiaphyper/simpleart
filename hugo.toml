@@ -23,7 +23,6 @@ enableInlineShortcodes = true
   [params.adsense]
     enable = true                 
     client_id = "ca-pub-xxxxxxxxxxxxxxx"
-    auto_ads = true
     article_top_slot = "123456789"
     article_bottom_slot = "123456789"
 
