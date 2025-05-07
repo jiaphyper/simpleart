@@ -42,7 +42,7 @@ enableInlineShortcodes = true
         block = true
         title = true
     [markup.goldmark.renderer]
-      unsafe = true  # 允许渲染原始 HTML
+      unsafe = true  
 
   [markup.highlight]
     anchorLineNos = false
