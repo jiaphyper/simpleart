@@ -15,5 +15,5 @@ features = ["light", "awesome", "minimal"]
 
 # If the theme has a single author
 [author]
-    name = "Luxas_J"
+    name = "jiaphyper"
     homepage = "https://github.com/jiaphyper"
